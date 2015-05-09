@@ -1,0 +1,3 @@
+Java String array FAQ: Can you share some Java array examples, specifically some String array examples, as well as the Java 5 for loop syntax?
+
+Sure. In this tutorial, we'll show how to declare, populate, and iterate through a Java String array, including the Java 5 for loop syntax. Because creating a String array is just like creating and using any other Java object array, these examples can also work as more generic object array examples.
